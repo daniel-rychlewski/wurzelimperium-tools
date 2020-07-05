@@ -1,0 +1,11 @@
+Exception in thread "main" java.lang.NoClassDefFoundError: org/json/JSONObject
+	at CoinsGenerator.findAuthenticationURL(CoinsGenerator.java:113)
+	at CoinsGenerator.authenticate(CoinsGenerator.java:65)
+	at CoinsGenerator.fulfillAnInfiniteQuest(CoinsGenerator.java:32)
+	at CoinsGenerator.main(CoinsGenerator.java:28)
+Caused by: java.lang.ClassNotFoundException: org.json.JSONObject
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:338)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 4 more

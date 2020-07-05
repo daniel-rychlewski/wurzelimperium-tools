@@ -1,0 +1,45 @@
+{LMouseI up}
+{Delay 0.1}
+{WinI ("Upjers Payment – Opera")}
+{Delay 0.3}
+{LMouseI down (729,184)}
+{LMouseI up (729,184)}
+{Delay 1.87}
+{LMouseI down (421,294)}
+{LMouseI up (421,294)}
+{Delay 1.41}
+{LMouseI down (915,780)}
+{LMouseI up (915,780)}
+{Delay 8.11}
+{CTRL down}
+{PGDN down}
+{PGDN up}
+{CTRL up}
+{Delay 3.67}
+{LMouseI down (729,184)}
+{LMouseI up (729,184)}
+{Delay 1.28}
+{LMouseI down (424,398)}
+{LMouseI up (424,398)}
+{Delay 1.84}
+{LMouseI down (915,780)}
+{LMouseI up (915,780)}
+{Delay 8.63}
+{CTRL down}
+{PGDN down}
+{PGDN up}
+{CTRL up}
+{Delay 1.55}
+{LMouseI down (729,184)}
+{LMouseI up (729,184)}
+{Delay 1.26}
+{LMouseI down (424,502)}
+{LMouseI up (424,502)}
+{Delay 1.64}
+{LMouseI down (915,780)}
+{LMouseI up (915,780)}
+{Delay 8.39}
+{CTRL down}
+{PGDN down}
+{PGDN up}
+{CTRL up}

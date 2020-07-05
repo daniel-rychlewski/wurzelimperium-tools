@@ -1,0 +1,10 @@
+"{{' start with one empty tab and have the video link in the clipboard
+{{' make sure to be logged in as a different channel and that no other notifications occur
+^v
+{ENTER}
+{{Delay 21300} {{' length of video in ms
+^t
+^{TAB}
+^w
+{{Delay 500} {{' necessary to select url bar for next run
+","Neuer Tab","","0","0","00","00",#TRUE#,0,"999999999"

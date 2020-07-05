@@ -1,0 +1,64 @@
+{Delay 0.12}
+{LMouseI up}
+{Delay 0.1}
+{WinI ("Upjers Payment - Google Chrome")}
+{Delay 0.3}
+{LMouseI down (732,182)}
+{Delay 0.15}
+{LMouseI up (732,182)}
+{Delay 1.87}
+{LMouseI down (425,294)}
+{Delay 0.17}
+{LMouseI up (425,294)}
+{Delay 1.41}
+{LMouseI down (925,761)}
+{Delay 0.11}
+{LMouseI up (925,761)}
+{Delay 8.11}
+{CTRL down}
+{Delay 0.34}
+{TAB down}
+{Delay 0.1}
+{TAB up}
+{Delay 0.02}
+{CTRL up}
+{Delay 3.67}
+{LMouseI down (732,182)}
+{Delay 0.1}
+{LMouseI up (732,182)}
+{Delay 1.28}
+{LMouseI down (431,393)}
+{Delay 0.14}
+{LMouseI up (431,393)}
+{Delay 1.84}
+{LMouseI down (925,761)}
+{Delay 0.1}
+{LMouseI up (925,761)}
+{Delay 8.63}
+{CTRL down}
+{Delay 0.38}
+{TAB down}
+{Delay 0.1}
+{TAB up}
+{Delay 0.06}
+{CTRL up}
+{Delay 1.55}
+{LMouseI down (732,182)}
+{Delay 0.11}
+{LMouseI up (732,182)}
+{Delay 1.26}
+{LMouseI down (425,500)}
+{Delay 0.14}
+{LMouseI up (425,500)}
+{Delay 1.64}
+{LMouseI down (925,761)}
+{Delay 0.13}
+{LMouseI up (925,761)}
+{Delay 8.39}
+{CTRL down}
+{Delay 0.45}
+{TAB down}
+{Delay 0.11}
+{TAB up}
+{Delay 0.05}
+{CTRL up}

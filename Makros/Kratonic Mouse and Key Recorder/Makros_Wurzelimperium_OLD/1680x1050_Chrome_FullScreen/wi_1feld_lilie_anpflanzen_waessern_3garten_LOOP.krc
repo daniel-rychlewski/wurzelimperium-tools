@@ -1,0 +1,68 @@
+"{{Start C:\Users\Daniel\Downloads\alles\GoogleChromePortable\GoogleChromePortable.exe
+{{Delay 15000}
+
+{{' Anmeldung
+{{RelativeMouse Wurzelimperium - Browsergames - Jetzt kostenlos spielen! - Google Chrome, 1, 1, 724, 344, 0
+{{Delay 15000}
+
+{{' Schliesse Werbung nach Anmeldung
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1292, 259, 0
+{{Delay 3000}
+
+{{' Ernten
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1144, 763, 0
+{{Delay 3000}
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1091, 400, 0
+{{Delay 3000}
+
+{{' 1Feld-waessern, 3 Garten
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 512, 742, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 494, 547, 0
+
+{{Master}
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_anpflanzen_und_wässern_1garten.krc
+
+{{Delay 1000} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1246, 774, 0
+{{Delay 1000} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 718, 414, 0
+{{Delay 1000} {{' Milliseconds
+
+{{' Ernten
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1144, 763, 0
+{{Delay 3000}
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1091, 400, 0
+{{Delay 3000}
+
+{{' Pflanzenauswahl
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 494, 547, 0
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_anpflanzen_und_wässern_1garten.krc
+
+{{Delay 1000} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1246, 774, 0
+{{Delay 1000} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 719, 451, 0
+{{Delay 1000} {{' Milliseconds
+
+{{' Ernten
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1144, 763, 0
+{{Delay 3000}
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1091, 400, 0
+{{Delay 3000}
+
+{{' Pflanzenauswahl
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 494, 547, 0
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_anpflanzen_und_wässern_1garten.krc
+{{Delay 3000}
+
+{{' Browser beenden
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1660, 18, 0
+
+{{Exit}
+","","","0","0","00","00",#TRUE#,0,"1"

@@ -1,0 +1,45 @@
+{LMouseI up}
+{Delay 0.1}
+{WinI ("Upjers Payment - Mozilla Firefox")}
+{Delay 0.3}
+{LMouseI down (729,182)}
+{LMouseI up (729,182)}
+{Delay 1.87}
+{LMouseI down (422,294)}
+{LMouseI up (422,294)}
+{Delay 1.41}
+{LMouseI down (912,773)}
+{LMouseI up (912,773)}
+{Delay 8.11}
+{CTRL down}
+{TAB down}
+{TAB up}
+{CTRL up}
+{Delay 3.67}
+{LMouseI down (729,182)}
+{LMouseI up (729,182)}
+{Delay 1.28}
+{LMouseI down (425,397)}
+{LMouseI up (425,397)}
+{Delay 1.84}
+{LMouseI down (912,773)}
+{LMouseI up (912,773)}
+{Delay 8.63}
+{CTRL down}
+{TAB down}
+{TAB up}
+{CTRL up}
+{Delay 1.55}
+{LMouseI down (729,182)}
+{LMouseI up (729,182)}
+{Delay 1.26}
+{LMouseI down (425,498)}
+{LMouseI up (425,498)}
+{Delay 1.64}
+{LMouseI down (912,773)}
+{LMouseI up (912,773)}
+{Delay 8.39}
+{CTRL down}
+{TAB down}
+{TAB up}
+{CTRL up}

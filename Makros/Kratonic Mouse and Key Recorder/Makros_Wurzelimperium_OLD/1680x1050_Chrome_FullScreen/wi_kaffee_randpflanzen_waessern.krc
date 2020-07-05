@@ -1,0 +1,27 @@
+"{{' Kaffee und Randpflanzen waessern, 3 Garten
+
+{{Master}
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_2erfeld.krc
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_rechter_rand.krc
+
+{{Delay 1000} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1246, 774, 0
+{{Delay 1000} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 718, 414, 0
+{{Delay 1000} {{' Milliseconds
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_2erfeld.krc
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_rechter_rand.krc
+
+{{Delay 1000} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1246, 774, 0
+{{Delay 1000} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 719, 451, 0
+{{Delay 1000} {{' Milliseconds
+
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_2erfeld.krc
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium_OLD\1680x1050_Chrome_FullScreen\wi_wässern_1garten_rechter_rand.krc
+","","","0","0","00","00",#TRUE#,0,"1"

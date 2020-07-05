@@ -1,0 +1,21 @@
+"{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1334, 552, 0 {{' Zum Wassergarten
+{{Delay 1000} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 451, 591, 0 {{' Schilfsetzling
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\wassergarten_felder_4_zentral_markieren.krc
+{{Delay 1333} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 518, 711, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 452, 369, 0 {{' Wasserknoeterich
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 432, 706, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\wassergarten_spalte_15_markieren_zentral.krc
+{{Delay 1333} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 2, 540, 518, 0 {{' Reis
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\wassergarten_felder_1_rand_markieren.krc
+{{Delay 1333} {{' Milliseconds
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1053, 746, 0 {{' Duengen","","","0","0","00","00",#TRUE#,0,"1"

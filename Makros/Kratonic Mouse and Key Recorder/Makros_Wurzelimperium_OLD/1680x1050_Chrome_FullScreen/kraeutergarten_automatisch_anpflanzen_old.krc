@@ -1,0 +1,92 @@
+"{{' pflanze im Kraeutergarten Sachen an
+
+{{Start D:\Downloads\GoogleChromePortable\GoogleChromePortable.exe
+
+{{Delay 6000} {{' Milliseconds
+{{Switch Wurzelimperium - Browsergames - Jetzt kostenlos spielen! - Google Chrome
+{{Delay 6000} {{' Milliseconds
+{{Switch Wurzelimperium - Browsergames - Jetzt kostenlos spielen! - Google Chrome
+
+{{' anmelden
+{{RelativeMouse Wurzelimperium - Browsergames - Jetzt kostenlos spielen! - Google Chrome, 1, 1, 731, 345, 0
+
+{{Delay 12000} {{' Milliseconds
+
+{{' gehe zum Kraeutergarten, ernte und markiere Pflanze
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1251, 770, 0
+{{Delay 7000} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 765, 450, 0
+{{Delay 3000} {{' Milliseconds
+
+{{' ernten
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 931, 191, 0
+
+{{' Markiert jedes Feld im Kraeutergarten (ohne Upjers-Toolbar).
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 695, 0
+
+{{Delay 12000} {{' Milliseconds
+
+{{' Colakraut
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 921, 402, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 660, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 740, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 820, 695, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 295, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 375, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 455, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 535, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 615, 0
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 900, 695, 0
+
+{{' schliesse Chrome und MKR
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1662, 17, 0
+{{Exit}
+","","","0","0","00","00",#TRUE#,0,"1"

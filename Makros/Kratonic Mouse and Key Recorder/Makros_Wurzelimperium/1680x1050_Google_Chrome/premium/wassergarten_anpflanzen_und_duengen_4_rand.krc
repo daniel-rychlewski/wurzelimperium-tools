@@ -1,0 +1,7 @@
+"{{' Pflanzt an und duengt die Rand-4-Felder des Wassergartens.
+
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\wassergarten_felder_4_rand_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1053, 746, 0
+","","","0","0","00","00",#TRUE#,0,"1"

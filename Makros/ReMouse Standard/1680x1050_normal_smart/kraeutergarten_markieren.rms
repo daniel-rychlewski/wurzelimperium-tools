@@ -1,0 +1,57 @@
+{LMouseI up}
+{Delay 0.1}
+{WinI ("Wurzelimperium - Google Chrome")}
+{Delay 0.3}
+{LMouseI down (50,10)}
+{Delay 0.15}
+{LMouseI up (50,10)}
+{Delay 0.1}
+{LMouseI down (666,299)}
+{Delay 0.15}
+{LMouseI up (666,299)}
+{LMouseI down (668,383)}
+{LMouseI up (668,383)}
+{LMouseI down (664,459)}
+{LMouseI up (664,459)}
+{LMouseI down (665,536)}
+{LMouseI up (665,536)}
+{LMouseI down (662,614)}
+{LMouseI up (662,614)}
+{LMouseI down (666,699)}
+{LMouseI up (666,699)}
+{LMouseI down (746,290)}
+{LMouseI up (746,290)}
+{LMouseI down (740,378)}
+{LMouseI up (740,378)}
+{LMouseI down (753,461)}
+{LMouseI up (753,461)}
+{LMouseI down (754,537)}
+{LMouseI up (754,537)}
+{LMouseI down (751,619)}
+{LMouseI up (751,619)}
+{LMouseI down (750,688)}
+{LMouseI up (750,688)}
+{LMouseI down (820,302)}
+{LMouseI up (820,302)}
+{LMouseI down (821,387)}
+{LMouseI up (821,387)}
+{LMouseI down (827,453)}
+{LMouseI up (827,453)}
+{LMouseI down (834,539)}
+{LMouseI up (834,539)}
+{LMouseI down (838,617)}
+{LMouseI up (838,617)}
+{LMouseI down (837,697)}
+{LMouseI up (837,697)}
+{LMouseI down (914,295)}
+{LMouseI up (914,295)}
+{LMouseI down (900,366)}
+{LMouseI up (900,366)}
+{LMouseI down (911,455)}
+{LMouseI up (911,455)}
+{LMouseI down (909,523)}
+{LMouseI up (909,523)}
+{LMouseI down (905,611)}
+{LMouseI up (905,611)}
+{LMouseI down (908,687)}
+{LMouseI up (908,687)}

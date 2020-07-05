@@ -1,0 +1,14 @@
+"^{TAB}
+^{TAB}
+^{TAB}
+{F5} {{' Aktualisiere darauffolgenden Tab (gehe davon aus, dass Ladezeit kurz genug ist)
++^{TAB}
++^{TAB}
++^{TAB}
+{{RelativeMouse Upjers Payment - Google Chrome, 1, 1, 969, 179, 0
+{{Delay 1500} {{' Milliseconds
+{{RelativeMouse Upjers Payment - Google Chrome, 1, 1, 388, 346, 0
+{{Delay 4500} {{' Milliseconds
+{{RelativeMouse Upjers Payment - Google Chrome, 1, 1, 950, 441, 0
+^{TAB}
+{{Delay 1500} {{' Passe diesen Delay je nach Anzahl offener Tabs an (1min / Werbung => bei 30 Tabs ~1,5s Delay)","","","0","0","00","00",#TRUE#,0,"99999999999"

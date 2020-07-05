@@ -1,0 +1,5 @@
+"{{' Schaut automatisch alle 10 Videos fuer das Autokino.
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 950, 452, 0
+{{Delay 350000} {{' diese Verzoegerung in ms sollte bei laengeren Werbungen angepasst werden
+","","","0","0","00","00",#TRUE#,0,"10"

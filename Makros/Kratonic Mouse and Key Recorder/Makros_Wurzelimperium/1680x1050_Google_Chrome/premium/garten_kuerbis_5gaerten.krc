@@ -1,0 +1,46 @@
+"{{' Setzt Premium, bestimmte Position für Kürbis und ausgewähltes Regal 1 voraus.
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1335, 395, 0 {{' Zu Garten 1
+{{Delay 500} {{' Milliseconds
+{{' Kuerbis auswahlen, Regal 1, unten das zweite von links
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 447, 661, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\garten_felder_1_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1102, 734, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1335, 415, 0 {{' Zu Garten 2
+{{Delay 500} {{' Milliseconds
+{{' Kuerbis auswahlen, Regal 1, unten das zweite von links
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 447, 661, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\garten_felder_1_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1102, 734, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1335, 435, 0 {{' Zu Garten 3
+{{Delay 500} {{' Milliseconds
+{{' Kuerbis auswahlen, Regal 1, unten das zweite von links
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 447, 661, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\garten_felder_1_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1102, 734, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1335, 455, 0 {{' Zu Garten 4
+{{Delay 500} {{' Milliseconds
+{{' Kuerbis auswahlen, Regal 1, unten das zweite von links
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 447, 661, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\garten_felder_1_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1102, 734, 0
+
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1335, 475, 0 {{' Zu Garten 5
+{{Delay 500} {{' Milliseconds
+{{' Kuerbis auswahlen, Regal 1, unten das zweite von links
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 447, 661, 0
+{{Master}
+{{LoadMacro C:\Users\Daniel\Dropbox\Makros\Makros_Wurzelimperium\1680x1050_Google_Chrome\premium\garten_felder_1_markieren.krc
+{{Delay 1333} {{' Milliseconds
+{{RelativeMouse Wurzelimperium - Google Chrome, 1, 1, 1102, 734, 0","","","0","0","00","00",#TRUE#,0,"1"

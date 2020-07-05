@@ -1,0 +1,336 @@
+{WinI ("Wurzelimperium - Google Chrome")}
+{Delay 0.3}
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (767,855)}
+{Delay 0.12}
+{LMouseI up (767,855)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (815,853)}
+{Delay 0.11}
+{LMouseI up (815,853)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (881,851)}
+{Delay 0.08}
+{LMouseI up (881,851)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (940,851)}
+{Delay 0.07}
+{LMouseI up (940,851)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (1004,849)}
+{Delay 0.04}
+{LMouseI up (1004,849)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (1059,852)}
+{Delay 0.08}
+{LMouseI up (1059,852)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (1118,854)}
+{Delay 0.09}
+{LMouseI up (1118,854)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (1174,849)}
+{Delay 0.07}
+{LMouseI up (1174,849)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}
+
+{LMouseI down (1237,863)}
+{Delay 0.08}
+{LMouseI up (1237,863)}
+{Delay 1.0}
+
+{LMouseI down (843,538)}
+{Delay 0.15}
+{LMouseI up (843,538)}
+{Delay 0.56}
+{LMouseI down (813,462)}
+{Delay 0.16}
+{LMouseI up (813,462)}
+{Delay 0.71}
+{LMouseI down (900,414)}
+{Delay 0.1}
+{LMouseI up (900,414)}
+{Delay 0.59}
+{LMouseI down (990,378)}
+{Delay 0.12}
+{LMouseI up (990,378)}
+{Delay 0.56}
+{LMouseI down (1082,414)}
+{Delay 0.12}
+{LMouseI up (1082,414)}
+{Delay 0.55}
+{LMouseI down (1130,517)}
+{Delay 0.13}
+{LMouseI up (1130,517)}
+{Delay 0.51}
+{LMouseI down (1066,563)}
+{Delay 0.11}
+{LMouseI up (1066,563)}
+{Delay 0.67}

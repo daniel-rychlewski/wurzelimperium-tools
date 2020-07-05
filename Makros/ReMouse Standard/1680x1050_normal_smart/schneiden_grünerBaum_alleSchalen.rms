@@ -1,0 +1,296 @@
+{WinI ("Wurzelimperium - Google Chrome")}
+{Delay 0.3}
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (767,855)}
+{Delay 0.12}
+{LMouseI up (767,855)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (815,853)}
+{Delay 0.11}
+{LMouseI up (815,853)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (881,851)}
+{Delay 0.08}
+{LMouseI up (881,851)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (940,851)}
+{Delay 0.07}
+{LMouseI up (940,851)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (1004,849)}
+{Delay 0.04}
+{LMouseI up (1004,849)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (1059,852)}
+{Delay 0.08}
+{LMouseI up (1059,852)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (1118,854)}
+{Delay 0.09}
+{LMouseI up (1118,854)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (1174,849)}
+{Delay 0.07}
+{LMouseI up (1174,849)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}
+
+{LMouseI down (1237,863)}
+{Delay 0.08}
+{LMouseI up (1237,863)}
+{Delay 1.0}
+
+{LMouseI down (906,603)}
+{Delay 0.09}
+{LMouseI up (906,603)}
+{Delay 0.58}
+{LMouseI down (793,555)}
+{Delay 0.16}
+{LMouseI up (793,555)}
+{Delay 0.45}
+{LMouseI down (1122,608)}
+{Delay 0.13}
+{LMouseI up (1122,608)}
+{Delay 0.45}
+{LMouseI down (1140,510)}
+{Delay 0.19}
+{LMouseI up (1140,510)}
+{Delay 0.39}
+{LMouseI down (1124,349)}
+{Delay 0.26}
+{LMouseI up (1124,349)}
+{Delay 0.39}
+{LMouseI down (789,464)}
+{Delay 0.14}
+{LMouseI up (789,464)}
+{Delay 0.44}

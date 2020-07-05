@@ -1,0 +1,1 @@
+chmod ug=r,o= /etc/sudoers

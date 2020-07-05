@@ -1,0 +1,72 @@
+{Delay 0.09}
+{LMouseI up}
+{Delay 0.1}
+{WinI ("Progress Telerik Fiddler Web Debugger")}
+{Delay 0.3}
+{LMouseI down (50,10)}
+{Delay 0.15}
+{LMouseI up (50,10)}
+{Delay 0.1}
+{LMouseI down (348,924)}
+{Delay 0.15}
+{LMouseI up (348,924)}
+{Delay 1.04}
+{u down}
+{Delay 0.11}
+{u up}
+{Delay 2.78}
+{LMouseI down (339,941)}
+{Delay 0.07}
+{LMouseI up (339,941)}
+{Delay 1.37}
+{LMouseI down (1080,708)}
+{Delay 0.06}
+{LMouseI up (1080,708)}
+{Delay 0.13}
+{LMouseI down (1080,708)}
+{Delay 0.11}
+{LMouseI up (1080,708)}
+{Delay 0.19}
+{CTRL down}
+{Delay 0.47}
+{c down}
+{Delay 0.16}
+{c up}
+{Delay 0.13}
+{CTRL up}
+{Delay 2.25}
+{LMouseI down (469,929)}
+{Delay 0.1}
+{LMouseI up (469,929)}
+{Delay 1.36}
+{F2 down}
+{Delay 0.09}
+{F2 up}
+{Delay 1.74}
+{LMouseI down (1208,124)}
+{Delay 0.06}
+{LMouseI up (1208,124)}
+{Delay 0.05}
+{LMouseI down (1208,124)}
+{Delay 0.1}
+{LMouseI up (1208,124)}
+{Delay 0.47}
+{CTRL down}
+{Delay 0.35}
+{v down}
+{Delay 0.11}
+{v up}
+{Delay 0.1}
+{CTRL up}
+{Delay 2.26}
+{LMouseI down (566,926)}
+{Delay 0.09}
+{LMouseI up (566,926)}
+{Delay 0.94}
+{u down}
+{Delay 0.08}
+{u up}
+{Delay 3.4}
+{LMouseI down (543,943)}
+{Delay 0.09}
+{LMouseI up (543,943)}

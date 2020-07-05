@@ -1,0 +1,7 @@
+doAuthenticate: 302
+getInfiniteQuest: 200
+infinitequestsDetails: {"status":"ok","questnr":"257","questData":{"products":[{"pid":403,"name":"Moorlilie","amount":1036,"send":0,"missing":1036},{"pid":17,"name":"Mirabelle","amount":635,"send":0,"missing":635}],"reward":["17.080 wT"],"text":"","title":"Quest 257: ","allDone":false},"quest":1}
+
+trying to solve this quest: InfiniteQuest{questNr=257, pidToAmountMaps={17=635, 403=1036}}
+ein infinitequest produkt eingeschickt - code: 200
+ein infinitequest produkt eingeschickt - code: 200

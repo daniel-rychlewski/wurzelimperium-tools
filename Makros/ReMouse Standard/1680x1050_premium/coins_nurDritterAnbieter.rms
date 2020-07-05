@@ -1,0 +1,20 @@
+{WinI ("Upjers Payment - Google Chrome")}
+{LMouseI down (998,172)}
+{Delay 0.11}
+{LMouseI up (998,172)}
+{Delay 1.26}
+{LMouseI down (425,500)}
+{Delay 0.14}
+{LMouseI up (425,500)}
+{Delay 1.64}
+{LMouseI down (923,615)}
+{Delay 0.13}
+{LMouseI up (923,615)}
+{Delay 3.39}
+{CTRL down}
+{Delay 0.45}
+{TAB down}
+{Delay 0.11}
+{TAB up}
+{Delay 0.05}
+{CTRL up}
